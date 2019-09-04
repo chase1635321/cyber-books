@@ -9,6 +9,7 @@ Solutions to challenges in various cyber books. This repo is a work in progress 
  - Practical Malware Analysis
  - Practical Binary Analysis
  - The IDA Pro Book
+ - Rootkits and Bootkits
  - Game Hacking
 ## Exploitation
  - The Shellcoders Handbook
